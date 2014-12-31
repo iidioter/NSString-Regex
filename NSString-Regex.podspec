@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NSString-Regex"
+  s.name         = "NSString+Regex"
   s.version      = "0.0.1"
   s.summary      = "Use regex for mail, phone ..."
 
@@ -85,7 +85,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "NSString-Regex", "NSString-Regex/**/*.{h,m}"
+  s.source_files  = "NSString+Regex", "NSString+Regex/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
