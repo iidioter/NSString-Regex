@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "NSString+Regex"
+  s.name         = "NSString-Regex"
   s.version      = "0.0.1"
   s.summary      = "Use regex for mail, phone ..."
 
